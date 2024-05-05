@@ -1,0 +1,11 @@
+D:\Education\Coding\C\РазработкаСетевогоПриложенияC\Chat\CommonChat\bin\Debug\net8.0\CommonChat.deps.json
+D:\Education\Coding\C\РазработкаСетевогоПриложенияC\Chat\CommonChat\bin\Debug\net8.0\CommonChat.dll
+D:\Education\Coding\C\РазработкаСетевогоПриложенияC\Chat\CommonChat\bin\Debug\net8.0\CommonChat.pdb
+D:\Education\Coding\C\РазработкаСетевогоПриложенияC\Chat\CommonChat\obj\Debug\net8.0\CommonChat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\Coding\C\РазработкаСетевогоПриложенияC\Chat\CommonChat\obj\Debug\net8.0\CommonChat.AssemblyInfoInputs.cache
+D:\Education\Coding\C\РазработкаСетевогоПриложенияC\Chat\CommonChat\obj\Debug\net8.0\CommonChat.AssemblyInfo.cs
+D:\Education\Coding\C\РазработкаСетевогоПриложенияC\Chat\CommonChat\obj\Debug\net8.0\CommonChat.csproj.CoreCompileInputs.cache
+D:\Education\Coding\C\РазработкаСетевогоПриложенияC\Chat\CommonChat\obj\Debug\net8.0\CommonChat.dll
+D:\Education\Coding\C\РазработкаСетевогоПриложенияC\Chat\CommonChat\obj\Debug\net8.0\refint\CommonChat.dll
+D:\Education\Coding\C\РазработкаСетевогоПриложенияC\Chat\CommonChat\obj\Debug\net8.0\CommonChat.pdb
+D:\Education\Coding\C\РазработкаСетевогоПриложенияC\Chat\CommonChat\obj\Debug\net8.0\ref\CommonChat.dll

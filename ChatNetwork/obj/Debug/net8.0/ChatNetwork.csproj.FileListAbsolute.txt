@@ -1,0 +1,15 @@
+D:\Education\Coding\C\РазработкаСетевогоПриложенияC\Chat\ChatNetwork\bin\Debug\net8.0\ChatNetwork.deps.json
+D:\Education\Coding\C\РазработкаСетевогоПриложенияC\Chat\ChatNetwork\bin\Debug\net8.0\ChatNetwork.dll
+D:\Education\Coding\C\РазработкаСетевогоПриложенияC\Chat\ChatNetwork\bin\Debug\net8.0\ChatNetwork.pdb
+D:\Education\Coding\C\РазработкаСетевогоПриложенияC\Chat\ChatNetwork\bin\Debug\net8.0\CommonChat.dll
+D:\Education\Coding\C\РазработкаСетевогоПриложенияC\Chat\ChatNetwork\bin\Debug\net8.0\CommonChat.pdb
+D:\Education\Coding\C\РазработкаСетевогоПриложенияC\Chat\ChatNetwork\obj\Debug\net8.0\ChatNetwork.csproj.AssemblyReference.cache
+D:\Education\Coding\C\РазработкаСетевогоПриложенияC\Chat\ChatNetwork\obj\Debug\net8.0\ChatNetwork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\Coding\C\РазработкаСетевогоПриложенияC\Chat\ChatNetwork\obj\Debug\net8.0\ChatNetwork.AssemblyInfoInputs.cache
+D:\Education\Coding\C\РазработкаСетевогоПриложенияC\Chat\ChatNetwork\obj\Debug\net8.0\ChatNetwork.AssemblyInfo.cs
+D:\Education\Coding\C\РазработкаСетевогоПриложенияC\Chat\ChatNetwork\obj\Debug\net8.0\ChatNetwork.csproj.CoreCompileInputs.cache
+D:\Education\Coding\C\РазработкаСетевогоПриложенияC\Chat\ChatNetwork\obj\Debug\net8.0\ChatNetw.B9F0F65F.Up2Date
+D:\Education\Coding\C\РазработкаСетевогоПриложенияC\Chat\ChatNetwork\obj\Debug\net8.0\ChatNetwork.dll
+D:\Education\Coding\C\РазработкаСетевогоПриложенияC\Chat\ChatNetwork\obj\Debug\net8.0\refint\ChatNetwork.dll
+D:\Education\Coding\C\РазработкаСетевогоПриложенияC\Chat\ChatNetwork\obj\Debug\net8.0\ChatNetwork.pdb
+D:\Education\Coding\C\РазработкаСетевогоПриложенияC\Chat\ChatNetwork\obj\Debug\net8.0\ref\ChatNetwork.dll

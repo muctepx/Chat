@@ -1,0 +1,6 @@
+D:\Education\Coding\C\РазработкаСетевогоПриложенияC\Chat\Chat.Test\bin\Debug\net8.0\CoverletSourceRootsMapping_Chat.Test
+D:\Education\Coding\C\РазработкаСетевогоПриложенияC\Chat\Chat.Test\obj\Debug\net8.0\Chat.Test.csproj.AssemblyReference.cache
+D:\Education\Coding\C\РазработкаСетевогоПриложенияC\Chat\Chat.Test\obj\Debug\net8.0\Chat.Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\Coding\C\РазработкаСетевогоПриложенияC\Chat\Chat.Test\obj\Debug\net8.0\Chat.Test.AssemblyInfoInputs.cache
+D:\Education\Coding\C\РазработкаСетевогоПриложенияC\Chat\Chat.Test\obj\Debug\net8.0\Chat.Test.AssemblyInfo.cs
+D:\Education\Coding\C\РазработкаСетевогоПриложенияC\Chat\Chat.Test\obj\Debug\net8.0\Chat.Test.csproj.CoreCompileInputs.cache
